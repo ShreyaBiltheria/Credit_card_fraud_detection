@@ -1,5 +1,5 @@
 
-# Credit Card Fraud Detection Model
+# Credit Card Fraud Detection Model(Final Year Project) 
 
 This repository contains a credit card fraud detection model that uses machine learning algorithms to detect fraudulent transactions.The model was built using the Python programming language and scikit-learn library.
 
